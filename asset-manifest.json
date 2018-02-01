@@ -1,6 +1,24 @@
 {
   "main.css": "static/css/main.0d6074f6.css",
   "main.css.map": "static/css/main.0d6074f6.css.map",
-  "main.js": "static/js/main.c30c1511.js",
-  "main.js.map": "static/js/main.c30c1511.js.map"
+  "main.js": "static/js/main.8ce6b082.js",
+  "main.js.map": "static/js/main.8ce6b082.js.map",
+  "static/media/Airport.png": "static/media/Airport.5ab5b7a4.png",
+  "static/media/Car-window-closed.png": "static/media/Car-window-closed.b6b916a1.png",
+  "static/media/Car-window-open.png": "static/media/Car-window-open.605aff63.png",
+  "static/media/Cycling-at-rush-hour.png": "static/media/Cycling-at-rush-hour.78c0152a.png",
+  "static/media/Cycling-off-peak.png": "static/media/Cycling-off-peak.09c0d567.png",
+  "static/media/Exposure to air pollution.png": "static/media/Exposure to air pollution.88ff8f26.png",
+  "static/media/House-near-busy-highway.png": "static/media/House-near-busy-highway.57dbb526.png",
+  "static/media/House-near-quiet-lane.png": "static/media/House-near-quiet-lane.123736b7.png",
+  "static/media/Idling-car.png": "static/media/Idling-car.ccf7f4d2.png",
+  "static/media/Non-Idling-car.png": "static/media/Non-Idling-car.6183b1d4.png",
+  "static/media/PM-smaller-than-hair.png": "static/media/PM-smaller-than-hair.062cac92.png",
+  "static/media/PM-visible-in-smog.png": "static/media/PM-visible-in-smog.9a3ec336.png",
+  "static/media/Park-road-with-hedges.png": "static/media/Park-road-with-hedges.124a0719.png",
+  "static/media/Start-quiz.png": "static/media/Start-quiz.4ae2349e.png",
+  "static/media/Stoke-road-no-hedges.png": "static/media/Stoke-road-no-hedges.17bb9731.png",
+  "static/media/Traffic.png": "static/media/Traffic.f39699ca.png",
+  "static/media/Waiting-few-meters-from-curb.png": "static/media/Waiting-few-meters-from-curb.d14099e8.png",
+  "static/media/Waiting-next-to-curb.png": "static/media/Waiting-next-to-curb.d2e7bb99.png"
 }
