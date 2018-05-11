@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.411e4cac.css",
   "main.css.map": "static/css/main.411e4cac.css.map",
-  "main.js": "static/js/main.336ee2cf.js",
-  "main.js.map": "static/js/main.336ee2cf.js.map",
+  "main.js": "static/js/main.06895faa.js",
+  "main.js.map": "static/js/main.06895faa.js.map",
   "static/media/Airport.png": "static/media/Airport.5ab5b7a4.png",
   "static/media/Car-window-closed.png": "static/media/Car-window-closed.b6b916a1.png",
   "static/media/Car-window-open.png": "static/media/Car-window-open.605aff63.png",
@@ -21,7 +21,12 @@
   "static/media/Traffic.png": "static/media/Traffic.f39699ca.png",
   "static/media/Waiting-few-meters-from-curb.png": "static/media/Waiting-few-meters-from-curb.d14099e8.png",
   "static/media/Waiting-next-to-curb.png": "static/media/Waiting-next-to-curb.d2e7bb99.png",
+  "static/media/button.wav": "static/media/button.b240a4d0.wav",
   "static/media/check.svg": "static/media/check.db408909.svg",
+  "static/media/coin.wav": "static/media/coin.dc41d142.wav",
   "static/media/facebook.svg": "static/media/facebook.aad85d38.svg",
-  "static/media/place.svg": "static/media/place.a594f638.svg"
+  "static/media/jump.wav": "static/media/jump.23cfe034.wav",
+  "static/media/ping.wav": "static/media/ping.24ab9209.wav",
+  "static/media/place.svg": "static/media/place.a594f638.svg",
+  "static/media/pop.wav": "static/media/pop.094205f3.wav"
 }
