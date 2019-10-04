@@ -585,11 +585,11 @@ function Languages(props){
         ENG
       </div>
       <div className={(props.lang === 1 ? "selected-lang" : '') + " col-3"} value="es" onClick={() => props.mySelectLanguage('es')}>
-        <img className="img-fluid" src={require("./img/spain-flag-small.png")} alt='English' />
+        <img className="img-fluid" src={require("./img/spain-flag-small.png")} alt='Spanish' />
         ESP
       </div>
       <div className={(props.lang === 2 ? "selected-lang" : '') + " col-3"} value="ca" onClick={() => props.mySelectLanguage('ca')}>
-        <img className="img-fluid" src={require("./img/catalunya.svg")} alt='English' />
+        <img className="img-fluid" src={require("./img/catalunya.svg")} alt='Catalan' />
         CAT
       </div>
     </div>
@@ -632,6 +632,9 @@ function Final(props) {
       <br />
       <p className="mt-4">{helper[lang].finaltips}</p>
       <br />
+
+      <img className="img-fluid" src={require("./img/final_picture.png")} style={{maxHeight: '300px'}} alt='Final image' />
+
       <p className="mt-4">{helper[lang].quizagain}</p>
 
       <div className="final-tips mb-3">
